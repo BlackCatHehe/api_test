@@ -1,0 +1,9 @@
+{
+    "code": 1,
+    "data": {
+        "name": "xiaobing",
+        "age": 12,
+        "sex": "man mixed women"
+    },
+    "message": "success"
+}
